@@ -8,4 +8,5 @@ Data Set Link: https://drive.google.com/drive/folders/13TUs7fTPBeyMm24vvWC2FZcVC
 Add black border for each image then Apply histogram normalization for each image.   
 # Classification model: 
 apply CNN model which represent in the following image.
+![Screenshot 2022-03-18 185419](https://user-images.githubusercontent.com/75753459/159048138-cfcb0ff3-b736-4b72-8cce-286ce135e77c.png)
 
